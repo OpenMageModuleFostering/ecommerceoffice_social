@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+    <name>ecommerceoffice_social</name>
+    <version>1.0.6</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Social is a powerful but easy to use extensions that helps you simplify your online social life by connecting you to Facebook, Twitter, LinkedIn, YouTube, Google+ all in one place. </summary>
+    <description>Social is also the easiest way to show feed from your social networks - links, images and video</description>
+    <notes>1.0.3&#xD;
+====&#xD;
+Minor fixes, jQuery caching.&#xD;
+1.0.5&#xD;
+====&#xD;
+Button layout &amp; default settings fixes&#xD;
+1.0.6&#xD;
+====&#xD;
+h2 in div tags changing&#xD;
+1.0.7&#xD;
+====&#xD;
+removed from default product gallery </notes>
+    <authors><author><name>volgodark</name><user>volgodark</user><email>volgodark@gmail.com</email></author></authors>
+    <date>2013-11-04</date>
+    <time>15:07:05</time>
+    <contents><target name="magelocal"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="ecommerceoffice_social.xml" hash=""/></dir></dir></dir></dir><dir name="modules"><file name="Ecommerceoffice_Social.xml" hash=""/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
